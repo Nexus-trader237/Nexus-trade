@@ -1,0 +1,17 @@
+{
+  "short_name": "Nexus Trade",
+  "name": "Nexus Trade - Plateforme de Trading",
+  "description": "Plateforme de trading professionnelle",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060d18",
+  "theme_color": "#060d18",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
